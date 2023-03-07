@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daug32\\repositories\\hello\\hello.csproj": {}
+    "D:\\Docs\\Projects\\Practise\\hello\\hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daug32\\repositories\\hello\\hello.csproj": {
+    "D:\\Docs\\Projects\\Practise\\hello\\hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daug32\\repositories\\hello\\hello.csproj",
+        "projectUniqueName": "D:\\Docs\\Projects\\Practise\\hello\\hello.csproj",
         "projectName": "hello",
-        "projectPath": "C:\\Users\\daug32\\repositories\\hello\\hello.csproj",
-        "packagesPath": "C:\\Users\\daug32\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daug32\\repositories\\hello\\obj\\",
+        "projectPath": "D:\\Docs\\Projects\\Practise\\hello\\hello.csproj",
+        "packagesPath": "C:\\Users\\Semen\\.nuget\\packages\\",
+        "outputPath": "D:\\Docs\\Projects\\Practise\\hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daug32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Semen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
