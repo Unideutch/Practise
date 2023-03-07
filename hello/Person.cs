@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Hello
+﻿namespace Hello
 {
     internal class Person
     {
@@ -14,14 +12,14 @@ namespace Hello
             {
                 return _name;
             }
-            
+
             //value - переданный параметр
             set
             {
                 _name = value;
             }
         }
-        public Person(string name)
+        public Person( string name )
         {
             _name = name;
         }
